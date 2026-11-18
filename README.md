@@ -4,7 +4,7 @@ Portafolio de proyectos de desarrollo, análisis de datos y ciberseguridad.
 
 <div align="center">
 
-# 💜 Mi portafolio tecnológico
+# 💜 Mi Portafolio Tecnológico
 
 ### Maleny Dominguez
 
@@ -38,8 +38,6 @@ Espacio dedicado a prácticas y proyectos relacionados con seguridad informátic
 
 ### 🌱 Aprender · Crear · Compartir
 
-Este portafolio estará en constante crecimiento, incorporando nuevos proyectos y aprendizajes.
-
-**Gracias por visitar mi espacio tecnológico.** 💜
+Este portafolio estará en constante crecimiento, incorporando nuevos proyectos y aprendizajes. 💜
 
 </div>
