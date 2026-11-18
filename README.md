@@ -1,43 +1,69 @@
-# mi-portafolio
-Portafolio de proyectos de desarrollo, análisis de datos y ciberseguridad.
-
-
 <div align="center">
 
-# 💜 Mi Portafolio Tecnológico
+<br>
 
-### Maleny Dominguez
+### ✧ PROYECTOS ✧
+*Aquí comparto mis proyectos, prácticas y aprendizajes en distintas áreas de la tecnología.* ♡
 
-**Desarrollo de software | Análisis de datos | Ciberseguridad**
-
-Bienvenido/a a mi portafolio. Este espacio reúne mis proyectos, prácticas y aprendizajes en diferentes áreas de la tecnología.
+<br>
 
 </div>
 
 ---
 
-## 💻 01. Desarrollo de software
+<div align="center">
 
-Espacio dedicado a proyectos de programación, desarrollo de aplicaciones, diseño e integración de bases de datos.
+## ♡ Explora ♡
 
----
+<table>
+<tr>
+<td width="33%" align="center">
 
-## 📊 02. Análisis de datos
+### 💻
+### Desarrollo De Software
 
-Espacio dedicado a proyectos de análisis, exploración, transformación y visualización de datos para obtener información útil.
+<a href="./Desarrollo-De-Software/">
+<img src="https://img.shields.io/badge/EXPLORAR-8064A2?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
+</td>
+<td width="33%" align="center">
 
-## 🔐 03. Ciberseguridad
+### 📊
+### Análisis De Datos
 
-Espacio dedicado a prácticas y proyectos relacionados con seguridad informática, redes, identificación de amenazas y protección de sistemas.
+<a href="./Analisis-De-Datos/">
+<img src="https://img.shields.io/badge/EXPLORAR-C18AB8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="33%" align="center">
+
+### 🔐
+### Ciberseguridad
+
+<a href="./Ciberseguridad/">
+<img src="https://img.shields.io/badge/EXPLORAR-9878B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 🌱 Aprender · Crear · Compartir
+## 🌷 Espacio en constante crecimiento
 
-Este portafolio estará en constante crecimiento, incorporando nuevos proyectos y aprendizajes. 💜
+**Explorar · Aprender · Crear · Evolucionar**
+
+<br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUyNWRibGRjbXNzaW13Mzg5bGFycWpqNTdueHl2b3p1eDZxc3h5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qu10q8QxXtHkA73aCo/giphy.webp" width="180" alt="GIF decorativo">
+
+<br>
+
+<sub>Hecho con ♡ y muchas ganas de seguir aprendiendo.</sub>
 
 </div>
